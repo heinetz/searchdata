@@ -1,0 +1,130 @@
+{
+  "bookmarks": [
+    {
+      "label": "Stories",
+      "href": "/serien/stories"
+    },
+    {
+      "label": "Inspiration",
+      "href": "/topic/inspiration"
+    },
+    {
+      "label": "Wissen",
+      "href": "/themen/wissen"
+    },
+    {
+      "label": "News",
+      "href": "/serien/news"
+    },
+    {
+      "label": "Gemeinschaft",
+      "href": "/topic/gemeinschaft"
+    },
+    {
+      "label": "Angehörige",
+      "href": "/topic/angehoerige"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Themen",
+      "items": [
+        {
+          "label": "Bewegung",
+          "href": "/themen/bewegung"
+        },
+        {
+          "label": "Eltern",
+          "href": "/themen/eltern",
+          "rel": "nofollow"
+        },
+        {
+          "label": "Wissen",
+          "href": "/themen/wissen"
+        },
+        {
+          "label": "Familie",
+          "href": "/themen/familie"
+        },
+        {
+          "label": "Reisen",
+          "href": "/themen/reisen",
+          "rel": "nofollow"
+        },
+        {
+          "label": "Entspannungstechniken",
+          "href": "/themen/entspannungstechniken"
+        },
+        {
+          "label": "Kochen",
+          "href": "/themen/kochen"
+        },
+        {
+          "label": "Hobbies",
+          "href": "/themen/hobbies"
+        }
+      ]
+    },
+    {
+      "name": "Serien",
+      "items": [
+        {
+          "label": "Stories",
+          "href": "/serien/stories"
+        },
+        {
+          "label": "Podcast",
+          "href": "/serien/podcast",
+          "rel": "nofollow"
+        },
+        {
+          "label": "News",
+          "href": "/serien/news"
+        },
+        {
+          "label": "Interview",
+          "href": "/serien/interview"
+        },
+        {
+          "label": "Umfrage",
+          "href": "/serien/umfrage",
+          "rel": "nofollow"
+        },
+        {
+          "label": "Tipps+Tricks",
+          "href": "/serien/tipps-tricks"
+        }
+      ]
+    }
+  ],
+  "static": [
+    {
+      "label": "Über uns",
+      "href": "/ueber-uns"
+    },
+    {
+      "label": "Veranstaltungen",
+      "href": "/veranstaltungen"
+    },
+    {
+      "label": "MukoLexikon",
+      "href": "/muko-lexikon"
+    },
+    {
+      "label": "Expertenchats",
+      "href": "/expertenchats"
+    },
+    {
+      "label": "Frage+Antwort",
+      "href": "/frage-antwort"
+    },
+    {
+      "label": "Gemeinschaft",
+      "href": "/gemeinschaft"
+    },
+    {
+      "label": "Downloads",
+      "href": "/downloads"
+    }
+  ]
+}
