@@ -1,130 +1,80 @@
 {
-  "bookmarks": [
+  "tags": [
     {
-      "label": "Stories",
-      "href": "/serien/stories"
+      "label": "Bewegung",
+      "href": "/themen/bewegung"
     },
     {
-      "label": "Inspiration",
-      "href": "/topic/inspiration"
+      "label": "Eltern",
+      "href": "/themen/eltern",
+      "rel": "nofollow"
     },
     {
       "label": "Wissen",
       "href": "/themen/wissen"
     },
     {
-      "label": "News",
-      "href": "/serien/news"
+      "label": "Familie",
+      "href": "/themen/familie"
     },
     {
-      "label": "Gemeinschaft",
-      "href": "/topic/gemeinschaft"
+      "label": "Reisen",
+      "href": "/themen/reisen",
+      "rel": "nofollow"
     },
     {
-      "label": "Angehörige",
-      "href": "/topic/angehoerige"
+      "label": "Entspannungstechniken",
+      "href": "/themen/entspannungstechniken"
+    },
+    {
+      "label": "Kochen",
+      "href": "/themen/kochen"
+    },
+    {
+      "label": "Hobbies",
+      "href": "/themen/hobbies"
     }
   ],
-  "tags": [
+  "articles": [
     {
-      "name": "Themen",
-      "items": [
-        {
-          "label": "Bewegung",
-          "href": "/themen/bewegung"
-        },
-        {
-          "label": "Eltern",
-          "href": "/themen/eltern",
-          "rel": "nofollow"
-        },
-        {
-          "label": "Wissen",
-          "href": "/themen/wissen"
-        },
-        {
-          "label": "Familie",
-          "href": "/themen/familie"
-        },
-        {
-          "label": "Reisen",
-          "href": "/themen/reisen",
-          "rel": "nofollow"
-        },
-        {
-          "label": "Entspannungstechniken",
-          "href": "/themen/entspannungstechniken"
-        },
-        {
-          "label": "Kochen",
-          "href": "/themen/kochen"
-        },
-        {
-          "label": "Hobbies",
-          "href": "/themen/hobbies"
-        }
-      ]
+      "title": "Li Europan lingues es membres del sam familie",
+      "href": "#1"
     },
     {
-      "name": "Serien",
-      "items": [
-        {
-          "label": "Stories",
-          "href": "/serien/stories"
-        },
-        {
-          "label": "Podcast",
-          "href": "/serien/podcast",
-          "rel": "nofollow"
-        },
-        {
-          "label": "News",
-          "href": "/serien/news"
-        },
-        {
-          "label": "Interview",
-          "href": "/serien/interview"
-        },
-        {
-          "label": "Umfrage",
-          "href": "/serien/umfrage",
-          "rel": "nofollow"
-        },
-        {
-          "label": "Tipps+Tricks",
-          "href": "/serien/tipps-tricks"
-        }
-      ]
-    }
-  ],
-  "static": [
-    {
-      "label": "Über uns",
-      "href": "/ueber-uns"
+      "title": "Lor separat existentie es un myth. Por scientie, musica, sport etc",
+      "href": "#2"
     },
     {
-      "label": "Veranstaltungen",
-      "href": "/veranstaltungen"
+      "title": "Europa usa li sam vocabular. Li lingues differe solmen in li grammatica",
+      "href": "#3"
     },
     {
-      "label": "MukoLexikon",
-      "href": "/muko-lexikon"
+      "title": "Omnicos directe al desirabilite de un nov lingua franca",
+      "href": "#4"
     },
     {
-      "label": "Expertenchats",
-      "href": "/expertenchats"
+      "title": "On refusa continuar payar custosi traductores",
+      "href": "#5"
     },
     {
-      "label": "Frage+Antwort",
-      "href": "/frage-antwort"
+      "title": "At solmen va esser necessi far uniform grammatica",
+      "href": "#6"
     },
     {
-      "label": "Gemeinschaft",
-      "href": "/gemeinschaft"
+      "title": "Ma quande lingues coalesce, li grammatica del resultant lingue es plu.",
+      "href": "#7"
     },
     {
-      "label": "Downloads",
-      "href": "/downloads"
-    }
+      "title": "Li nov lingua franca va esser plu simplic e regulari quam li existent.",
+      "href": "#8"
+    },
+    {
+      "title": " It va esser tam simplic quam Occidental in fact, it va esser Occidental.",
+      "href": "#9"
+    },
+    {
+      "title": "A un Angleso it va semblar un simplificat Angles.",
+      "href": "#10"
+    },
   ]
 }
