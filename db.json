@@ -1,80 +1,72 @@
 {
-  "tags": [
-    {
-      "label": "Bewegung",
-      "href": "/themen/bewegung"
-    },
-    {
-      "label": "Eltern",
-      "href": "/themen/eltern",
-      "rel": "nofollow"
-    },
-    {
-      "label": "Wissen",
-      "href": "/themen/wissen"
-    },
-    {
-      "label": "Familie",
-      "href": "/themen/familie"
-    },
-    {
-      "label": "Reisen",
-      "href": "/themen/reisen",
-      "rel": "nofollow"
-    },
-    {
-      "label": "Entspannungstechniken",
-      "href": "/themen/entspannungstechniken"
-    },
-    {
-      "label": "Kochen",
-      "href": "/themen/kochen"
-    },
-    {
-      "label": "Hobbies",
-      "href": "/themen/hobbies"
-    }
-  ],
-  "articles": [
-    {
-      "title": "Li Europan lingues es membres del sam familie",
-      "href": "#1"
-    },
-    {
-      "title": "Lor separat existentie es un myth. Por scientie, musica, sport etc",
-      "href": "#2"
-    },
-    {
-      "title": "Europa usa li sam vocabular. Li lingues differe solmen in li grammatica",
-      "href": "#3"
-    },
-    {
-      "title": "Omnicos directe al desirabilite de un nov lingua franca",
-      "href": "#4"
-    },
-    {
-      "title": "On refusa continuar payar custosi traductores",
-      "href": "#5"
-    },
-    {
-      "title": "At solmen va esser necessi far uniform grammatica",
-      "href": "#6"
-    },
-    {
-      "title": "Ma quande lingues coalesce, li grammatica del resultant lingue es plu.",
-      "href": "#7"
-    },
-    {
-      "title": "Li nov lingua franca va esser plu simplic e regulari quam li existent.",
-      "href": "#8"
-    },
-    {
-      "title": " It va esser tam simplic quam Occidental in fact, it va esser Occidental.",
-      "href": "#9"
-    },
-    {
-      "title": "A un Angleso it va semblar un simplificat Angles.",
-      "href": "#10"
-    }
-  ]
+  "results": {
+    "tags": [
+      {
+        "label": "Stories",
+        "href": "/serien/stories"
+      },
+      {
+        "label": "Inspiration",
+        "href": "/topic/inspiration"
+      },
+      {
+        "label": "Wissen",
+        "href": "/themen/wissen"
+      },
+      {
+        "label": "News",
+        "href": "/serien/news"
+      },
+      {
+        "label": "Gemeinschaft",
+        "href": "/topic/gemeinschaft"
+      },
+      {
+        "label": "Angehörige",
+        "href": "/topic/angehoerige"
+      }
+    ],
+    "articles": [
+      {
+        "label": "Li Europan lingues es membres del sam familie",
+        "href": "#1"
+      },
+      {
+        "label": "Lor separat existentie es un myth. Por scientie, musica, sport etc",
+        "href": "#2"
+      },
+      {
+        "label": "Europa usa li sam vocabular. Li lingues differe solmen in li grammatica",
+        "href": "#3"
+      },
+      {
+        "label": "Omnicos directe al desirabilite de un nov lingua franca",
+        "href": "#4"
+      },
+      {
+        "label": "On refusa continuar payar custosi traductores",
+        "href": "#5"
+      },
+      {
+        "label": "At solmen va esser necessi far uniform grammatica",
+        "href": "#6"
+      },
+      {
+        "label": "Ma quande lingues coalesce, li grammatica del resultant lingue es plu.",
+        "href": "#7"
+      },
+      {
+        "label": "Li nov lingua franca va esser plu simplic e regulari quam li existent.",
+        "href": "#8"
+      },
+      {
+        "label": " It va esser tam simplic quam Occidental in fact, it va esser Occidental.",
+        "href": "#9"
+      },
+      {
+        "label": "A un Angleso it va semblar un simplificat Angles.",
+        "href": "#10"
+      }
+    ]
+  }
 }
