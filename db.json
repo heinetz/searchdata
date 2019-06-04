@@ -12,7 +12,7 @@
       {
         "label": "Wissen",
         "href": "/themen/wissen",
-        "attributes: [
+        "attributes": [
          {
           "key": "target",
           "value": "self"
