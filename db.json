@@ -11,7 +11,13 @@
       },
       {
         "label": "Wissen",
-        "href": "/themen/wissen"
+        "href": "/themen/wissen",
+        "attributes: [
+         {
+          "key": "target",
+          "value": "self"
+         }
+        ]
       },
       {
         "label": "News",
