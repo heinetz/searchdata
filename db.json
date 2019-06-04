@@ -3,7 +3,8 @@
     "tags": [
       {
         "label": "Stories",
-        "href": "/serien/stories"
+        "href": "/serien/stories",
+        "rel": "nofollow"
       },
       {
         "label": "Inspiration",
