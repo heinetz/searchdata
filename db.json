@@ -4,23 +4,10 @@
       {
         "label": "Stories",
         "href": "/serien/stories",
-        "rel": "nofollow",
-        "classes": [
-          "test"
-        ]
+        "rel": "nofollow"
       },
       {
-        "label": "Inspiration",
-        "attributes": [
-          {
-            "key": "target",
-            "value": "_blank"
-          }          
-        ],
-        "modifier": [
-          "lang"
-        ],
-        "tag" :"p"
+        "label": "Inspiration"
       },
       {
         "label": "Wissen",
