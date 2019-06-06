@@ -4,7 +4,10 @@
       {
         "label": "Stories",
         "href": "/serien/stories",
-        "rel": "nofollow"
+        "rel": "nofollow",
+        "classes": [
+          "test"
+        ]
       },
       {
         "label": "Inspiration",
