@@ -7,7 +7,13 @@
         "rel": "nofollow"
       },
       {
-        "label": "Inspiration"
+        "label": "Inspiration",
+        "attributes": [
+          {
+            "key": "target",
+            "value": "_blank"
+          }
+        ]
       },
       {
         "label": "Wissen",
